@@ -169,5 +169,8 @@ iframe{
     text-decoration: none;
     background-color: rgb(169, 173, 173);
     padding: 3px;
-    color: black;
+    color: blue;
+}
+.meon p{
+    font-size: 11px;
 }
